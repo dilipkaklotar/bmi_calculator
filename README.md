@@ -2,15 +2,20 @@
 
 Flutter BMI Calculator
 
-## Getting Started
+# BMI Calculator
+  An app to calculate BMI in Flutter
 
-This project is a starting point for a Flutter application.
+## ScreenShots
 
-A few resources to get you started if this is your first Flutter project:
+<br>
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+<img height=550 width=300 src="https://github.com/dilipkaklotar/bmi_calculator/blob/master/screenshot/screen1.png"
+/><img height=550 width=300 src="https://github.com/dilipkaklotar/bmi_calculator/blob/master/screenshot/screen2.png" hspace=100
+/>
+<br><br>
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Lets become friends
+- [LinkedIn](https://www.linkedin.com/in/dilip-kaklotar-51122528/)
+- [Github](https://github.com/dilipkaklotar)
+
+Email: dilipkaklotar@gmail.com
